@@ -5,7 +5,7 @@ var
 inicio
    c <- 1
    Contdiv <- 0
-   Escreva("Digite um numero: ")
+   Escreva("Digite um numero: ") 
    Leia(N)
    Repita
       Se(n % c = 0) entao
@@ -16,7 +16,7 @@ inicio
       c <- c + 1
    ate(c > n)
    se (contdiv > 2) entao
-      Escreval ("O valor ", n, " n„o e primo. ")
+      Escreval ("O valor ", n, " n√£o e primo. ")
    senao
       Escreval ("O valor ", n, " e primo. ")
    Fimse
