@@ -9,7 +9,7 @@ inicio
    Leia(N)
    Repita
       Se(n % c = 0) entao
-         contdiv <- contdiv + 1
+         contdiv <- contdiv + 1 
 
 
       Fimse
